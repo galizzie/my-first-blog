@@ -25,7 +25,7 @@ SECRET_KEY = '6zjp^#l(%rx2c!vg_dwc6%=(o+3#ipyk-fx1i*7)81h_ni7w)d'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['lizettegc.pythonanywhere.com']
 
 
 # Application definition
